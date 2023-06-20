@@ -1,0 +1,63 @@
+C:\Users\igork\OneDrive\Рабочий стол\Go working\Kulakov\Kulakov\Kulakov\bin\Debug\Kulakov.exe.config
+C:\Users\igork\OneDrive\Рабочий стол\Go working\Kulakov\Kulakov\Kulakov\bin\Debug\Kulakov.exe
+C:\Users\igork\OneDrive\Рабочий стол\Go working\Kulakov\Kulakov\Kulakov\bin\Debug\Kulakov.pdb
+C:\Users\igork\OneDrive\Рабочий стол\Go working\Kulakov\Kulakov\Kulakov\obj\Debug\Kulakov.csprojAssemblyReference.cache
+C:\Users\igork\OneDrive\Рабочий стол\Go working\Kulakov\Kulakov\Kulakov\obj\Debug\Kulakov.Forms.About.resources
+C:\Users\igork\OneDrive\Рабочий стол\Go working\Kulakov\Kulakov\Kulakov\obj\Debug\Kulakov.Form1.resources
+C:\Users\igork\OneDrive\Рабочий стол\Go working\Kulakov\Kulakov\Kulakov\obj\Debug\Kulakov.Forms.MainForm.resources
+C:\Users\igork\OneDrive\Рабочий стол\Go working\Kulakov\Kulakov\Kulakov\obj\Debug\Kulakov.Properties.Resources.resources
+C:\Users\igork\OneDrive\Рабочий стол\Go working\Kulakov\Kulakov\Kulakov\obj\Debug\Kulakov.csproj.GenerateResource.cache
+C:\Users\igork\OneDrive\Рабочий стол\Go working\Kulakov\Kulakov\Kulakov\obj\Debug\Kulakov.csproj.CoreCompileInputs.cache
+C:\Users\igork\OneDrive\Рабочий стол\Go working\Kulakov\Kulakov\Kulakov\obj\Debug\Kulakov.exe
+C:\Users\igork\OneDrive\Рабочий стол\Go working\Kulakov\Kulakov\Kulakov\obj\Debug\Kulakov.pdb
+C:\Users\igork\OneDrive\Рабочий стол\Go working\Kulakov\Kulakov\Kulakov\obj\Debug\Kulakov.Forms.AddReaders.resources
+C:\Users\igork\OneDrive\Рабочий стол\Go working\Kulakov\Kulakov\Kulakov\obj\Debug\Kulakov.Forms.AddBook.resources
+C:\Users\igork\OneDrive\Рабочий стол\Go working\Kulakov\Kulakov\Kulakov\bin\Debug\EntityFramework.dll
+C:\Users\igork\OneDrive\Рабочий стол\Go working\Kulakov\Kulakov\Kulakov\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\igork\OneDrive\Рабочий стол\Go working\Kulakov\Kulakov\Kulakov\bin\Debug\EntityFramework.xml
+C:\Users\igork\OneDrive\Рабочий стол\Go working\Kulakov\Kulakov\Kulakov\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\igork\OneDrive\Рабочий стол\Go working\Kulakov\Kulakov\Kulakov\obj\Debug\Kulakov.csproj.CopyComplete
+C:\Users\igork\OneDrive\Рабочий стол\Go working\Kulakov\Kulakov\Kulakov\obj\Debug\Kulakov.Forms.ListReaders.resources
+C:\Users\igork\OneDrive\Рабочий стол\Go working\Kulakov\Kulakov\Kulakov\obj\Debug\Kulakov.Forms.BookAccess.resources
+C:\Users\igork\OneDrive\Рабочий стол\Go working\Kulakov\Kulakov\Kulakov\obj\Debug\Kulakov.Forms.BookList.resources
+C:\Users\igork\OneDrive\Рабочий стол\Go working\Kulakov\Kulakov\Kulakov\obj\Debug\Kulakov.Forms.Givebook.resources
+C:\Users\igork\OneDrive\Рабочий стол\Go working\Kulakov\Kulakov\Kulakov\obj\Debug\Kulakov.Forms.ReturnBook.resources
+C:\Users\igork\OneDrive\Рабочий стол\Go working\Kulakov\Kulakov\Kulakov\obj\Debug\Kulakov.Forms.SpAutor.resources
+C:\Users\igork\OneDrive\Рабочий стол\Go working\Kulakov\Kulakov\Kulakov\obj\Debug\Kulakov.Forms.SpGenry.resources
+C:\Users\igork\OneDrive\Рабочий стол\Go working\Kulakov\Kulakov\Kulakov\obj\Debug\Kulakov.Forms.SpPublisher.resources
+C:\Users\igork\OneDrive\Рабочий стол\Go working\Kulakov\Kulakov\Kulakov\obj\Debug\Kulakov.Forms.ActiveBook.resources
+C:\Users\igork\OneDrive\Рабочий стол\Go working\Kulakov\Kulakov\Kulakov\obj\Debug\Kulakov.Forms.Extendbook.resources
+C:\Users\igork\OneDrive\Рабочий стол\Go working\Kulakov\Kulakov\Kulakov\obj\Debug\Kulakov.Forms.Admin.resources
+C:\Users\igork\OneDrive\Рабочий стол\Go working\Kulakov\Kulakov\Kulakov\obj\Debug\Kulakov.Forms.othet.resources
+C:\Users\igork\Desktop\Техникум\Go working\Kulakov\Kulakov\Kulakov\bin\Debug\Kulakov.exe.config
+C:\Users\igork\Desktop\Техникум\Go working\Kulakov\Kulakov\Kulakov\bin\Debug\Kulakov.exe
+C:\Users\igork\Desktop\Техникум\Go working\Kulakov\Kulakov\Kulakov\bin\Debug\Kulakov.pdb
+C:\Users\igork\Desktop\Техникум\Go working\Kulakov\Kulakov\Kulakov\bin\Debug\EntityFramework.dll
+C:\Users\igork\Desktop\Техникум\Go working\Kulakov\Kulakov\Kulakov\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\igork\Desktop\Техникум\Go working\Kulakov\Kulakov\Kulakov\bin\Debug\EntityFramework.xml
+C:\Users\igork\Desktop\Техникум\Go working\Kulakov\Kulakov\Kulakov\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\igork\Desktop\Техникум\Go working\Kulakov\Kulakov\Kulakov\obj\Debug\Kulakov.csproj.AssemblyReference.cache
+C:\Users\igork\Desktop\Техникум\Go working\Kulakov\Kulakov\Kulakov\obj\Debug\Kulakov.csproj.SuggestedBindingRedirects.cache
+C:\Users\igork\Desktop\Техникум\Go working\Kulakov\Kulakov\Kulakov\obj\Debug\Kulakov.Forms.About.resources
+C:\Users\igork\Desktop\Техникум\Go working\Kulakov\Kulakov\Kulakov\obj\Debug\Kulakov.Forms.AddBook.resources
+C:\Users\igork\Desktop\Техникум\Go working\Kulakov\Kulakov\Kulakov\obj\Debug\Kulakov.Forms.AddReaders.resources
+C:\Users\igork\Desktop\Техникум\Go working\Kulakov\Kulakov\Kulakov\obj\Debug\Kulakov.Forms.Admin.resources
+C:\Users\igork\Desktop\Техникум\Go working\Kulakov\Kulakov\Kulakov\obj\Debug\Kulakov.Form1.resources
+C:\Users\igork\Desktop\Техникум\Go working\Kulakov\Kulakov\Kulakov\obj\Debug\Kulakov.Forms.BookAccess.resources
+C:\Users\igork\Desktop\Техникум\Go working\Kulakov\Kulakov\Kulakov\obj\Debug\Kulakov.Forms.BookList.resources
+C:\Users\igork\Desktop\Техникум\Go working\Kulakov\Kulakov\Kulakov\obj\Debug\Kulakov.Forms.Extendbook.resources
+C:\Users\igork\Desktop\Техникум\Go working\Kulakov\Kulakov\Kulakov\obj\Debug\Kulakov.Forms.Givebook.resources
+C:\Users\igork\Desktop\Техникум\Go working\Kulakov\Kulakov\Kulakov\obj\Debug\Kulakov.Forms.ActiveBook.resources
+C:\Users\igork\Desktop\Техникум\Go working\Kulakov\Kulakov\Kulakov\obj\Debug\Kulakov.Forms.ListReaders.resources
+C:\Users\igork\Desktop\Техникум\Go working\Kulakov\Kulakov\Kulakov\obj\Debug\Kulakov.Forms.MainForm.resources
+C:\Users\igork\Desktop\Техникум\Go working\Kulakov\Kulakov\Kulakov\obj\Debug\Kulakov.Forms.othet.resources
+C:\Users\igork\Desktop\Техникум\Go working\Kulakov\Kulakov\Kulakov\obj\Debug\Kulakov.Forms.ReturnBook.resources
+C:\Users\igork\Desktop\Техникум\Go working\Kulakov\Kulakov\Kulakov\obj\Debug\Kulakov.Forms.SpAutor.resources
+C:\Users\igork\Desktop\Техникум\Go working\Kulakov\Kulakov\Kulakov\obj\Debug\Kulakov.Forms.SpGenry.resources
+C:\Users\igork\Desktop\Техникум\Go working\Kulakov\Kulakov\Kulakov\obj\Debug\Kulakov.Forms.SpPublisher.resources
+C:\Users\igork\Desktop\Техникум\Go working\Kulakov\Kulakov\Kulakov\obj\Debug\Kulakov.Properties.Resources.resources
+C:\Users\igork\Desktop\Техникум\Go working\Kulakov\Kulakov\Kulakov\obj\Debug\Kulakov.csproj.GenerateResource.cache
+C:\Users\igork\Desktop\Техникум\Go working\Kulakov\Kulakov\Kulakov\obj\Debug\Kulakov.csproj.CoreCompileInputs.cache
+C:\Users\igork\Desktop\Техникум\Go working\Kulakov\Kulakov\Kulakov\obj\Debug\Kulakov.csproj.CopyComplete
+C:\Users\igork\Desktop\Техникум\Go working\Kulakov\Kulakov\Kulakov\obj\Debug\Kulakov.exe
+C:\Users\igork\Desktop\Техникум\Go working\Kulakov\Kulakov\Kulakov\obj\Debug\Kulakov.pdb
